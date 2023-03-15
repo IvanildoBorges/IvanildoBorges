@@ -5,7 +5,7 @@
 
 _💻 Sou estudante bacharelando em Sistemas de Informação_
 
-_📱 Atualmente membro de uma startup de serviços na área da saúde_
+_📱 Atualmente em busca de oportunidades_
 
 _📌 Especializando-se em UX/UI Design e frontend 💡_
 
