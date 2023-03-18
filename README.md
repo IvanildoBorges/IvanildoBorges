@@ -1,13 +1,13 @@
-# 👨‍💻 Olá, eu sou Ivanildo, mas podem me chamar de Ivan 👨‍💻
-> Programador | Designer | Empreendedor
+# 👨‍💻 Hello, I'm Ivanildo, but you can call me Ivan 👨‍💻
+> Programmer | Designer | Entrepreneur
 
-**Sobre mim**
+**About me**
 
-_💻 Sou estudante bacharelando em Sistemas de Informação_
+_💻 I'm a Bachelor's student in Information Systems_
 
-_📱 Atualmente em busca de oportunidades_
+_📱 In search of opportunities_
 
-_📌 Especializando-se em UX/UI Design e frontend 💡_
+_📌 Specialties: UX/UI Design and Frontend 💡_
 
 
 <picture>
