@@ -1,7 +1,7 @@
 # 👨‍💻 Hello, I'm Ivanildo, but you can call me Ivan 👨‍💻
 > Programmer | Designer | Entrepreneur
 
-**About me**
+<br>**About me**
 
 _💻 I'm a Bachelor's student in Information Systems_
 
@@ -9,8 +9,7 @@ _📱 In search of opportunities_
 
 _📌 Specialties: UX/UI Design and Frontend 💡_
 
-
-<picture>
+<br><picture>
   <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" heigth="32">
 </picture>
 <picture>
@@ -33,4 +32,18 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
 </picture>
 <picture>
   <img alt="Swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" heigth="32">
-</picture>
+</picture><br>
+
+<br>**My social networks**
+- Linkedin: https://www.linkedin.com/in/ivanildoborges/
+- Instagram: https://www.instagram.com/algum.ivan/
+- Twitter: https://twitter.com/eusoualgumivan
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/IvanildoBorges)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)  
+
+![Profile views](https://gpvc.arturio.dev/IvanildoBorges)  
