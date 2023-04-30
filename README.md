@@ -35,9 +35,9 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
 </picture><br>
 
 <br>**My social networks**
-- Linkedin: https://www.linkedin.com/in/ivanildoborges/
-- Instagram: https://www.instagram.com/algum.ivan/
-- Twitter: https://twitter.com/eusoualgumivan
+- [Linkedin](https://www.linkedin.com/in/ivanildoborges/)
+- [Instagram](https://www.instagram.com/algum.ivan/)
+- [Twitter](https://twitter.com/eusoualgumivan)
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true)  
