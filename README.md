@@ -46,4 +46,15 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)  
 
+[![Type 2](https://img.shields.io/static/v1?label=|&message=msg&color=ff&style=for-the-badge&logo=logoname&logo-color=white)]
+
 ![Profile views](https://gpvc.arturio.dev/IvanildoBorges)  
+
+ ˋ
+[![Profile views](https://gpvc.arturio.dev/IvanildoBorges) 
+
+[![Github Followers](https://img.shields.io/github/followers/IvanildoBorges?label=Followers&logo=GitHub&style=for-the-badge)
+
+
+
+ˋ
