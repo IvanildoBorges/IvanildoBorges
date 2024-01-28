@@ -42,14 +42,12 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/IvanildoBorges)  
+[GitHub metrics](https://metrics.lecoq.io/IvanildoBorges)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges)
 
+![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
 
-<div style="display: flex;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges)
-  ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
-  ![Github Followers](https://img.shields.io/github/followers/IvanildoBorges?label=Followers&logo=GitHub&style=for-the-badge)
-</div>
+![Github Followers](https://img.shields.io/github/followers/IvanildoBorges?label=Followers&logo=GitHub&style=for-the-badge)
