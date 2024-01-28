@@ -40,9 +40,8 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
 - [Twitter](https://twitter.com/eusoualgumivan)
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true)  
-
-[GitHub metrics](https://metrics.lecoq.io/IvanildoBorges)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true) <br>
+![GitHub metrics](https://metrics.lecoq.io/IvanildoBorges) <br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)  
 
