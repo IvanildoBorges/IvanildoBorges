@@ -50,3 +50,5 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
 ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
 
 ![Github Followers](https://img.shields.io/github/followers/IvanildoBorges?label=Followers&logo=GitHub&style=for-the-badge)
+
+![trophy]( ​​https://github-profile-trophy.vercel.app/?username=IvanildoBorges)](https://github.com/ryo-ma/github-profile-trophy)
