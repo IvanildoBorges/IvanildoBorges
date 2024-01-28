@@ -49,6 +49,7 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges)
 
-![Profile views](https://gpvc.arturio.dev/[IvanildoBorges])  
+![Profile views](https://gpvc.arturio.dev/IvanildoBorges)  
+![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
 
 ![Github Followers](https://img.shields.io/github/followers/IvanildoBorges?label=Followers&logo=GitHub&style=for-the-badge)
