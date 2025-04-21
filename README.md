@@ -1,9 +1,6 @@
 <img alt="Banner" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQEACBd_FyQJjg/profile-displaybackgroundimage-shrink_350_1400/B56ZUkHacNHEAY-/0/1740067678864?e=1750896000&v=beta&t=sGjzGya7wpRFf4xioWGcSFubG0Whx7_4DU7LD7HqiAI">
 
-# 💙 Hello World, I'm Ivanildo, but you can call me Ivan 💙
-<br><br>
-
-## 👨‍💻 Sobre mim
+# 👨‍💻 Hello World, I'm Ivanildo, but you can call me Ivan 👨‍💻
 > _Programador_ | _Designer_ | _Graduação Sistemas de Informação pelo IFCE_ | _UX Designer pelo Google_ | _UX/UI Designer pela Mentorama_
 <br>
 
