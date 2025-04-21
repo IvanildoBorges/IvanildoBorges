@@ -42,7 +42,9 @@ _Certificado pela Amazon com [AWS Cloud Practitioner](https://www.credly.com/bad
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=fff&title_color=5E17EB&border_color=5E17EB&icon_color=5E17EB)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&title_color=5E17EB&border_color=5E17EB&icon_color=5E17EB)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)
+
 ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
