@@ -1,13 +1,15 @@
-# 👨‍💻 Hello, I'm Ivanildo, but you can call me Ivan 👨‍💻
-> Programmer | Designer | Entrepreneur
+# 👨‍💻 Hello World, I'm Ivanildo, but you can call me Ivan 👨‍💻
+> Programador | Designer
 
-<br>**About me**
+<br>**Sobre mim**
 
-_💻 I'm a Bachelor's student in Information Systems_
+_💻 Bacharelado em Sistemas de Informação pelo IFCE_
 
-_📱 In search of opportunities_
+_📱 Designer de UX pelo Google_
 
-_📌 Specialties: UX/UI Design and Frontend 💡_
+_📱 Designer de UX e UI pela Mentorama_
+
+_📌 Especialidades: UX/UI Design e DESENVOLVIMENTO WEB💡_
 
 <br><picture>
   <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" heigth="32">
@@ -34,10 +36,11 @@ _📌 Specialties: UX/UI Design and Frontend 💡_
   <img alt="Swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" heigth="32">
 </picture><br>
 
-<br>**My social networks**
+<br>**Mais sobre mim / Networking**
 - [Linkedin](https://www.linkedin.com/in/ivanildoborges/)
-- [Instagram](https://www.instagram.com/algum.ivan/)
-- [Twitter](https://twitter.com/eusoualgumivan)
+- [Instagram](https://www.instagram.com/oxiivanoficial)
+- [X (Twitter)](https://x.com/oxiivanoficial)
+- [YouTube](https://www.youtube.com/@oxiivan)
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true) <br>
