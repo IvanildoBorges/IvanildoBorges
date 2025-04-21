@@ -36,15 +36,15 @@ _Certificado pela Amazon com [AWS Cloud Practitioner](https://www.credly.com/bad
 <br><br>
 
 ## 🤳 Contato/Networking
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=fff&color=5E17EB&text_size=16&style=for-the-badge)](https://www.linkedin.com/in/ivanildoborges/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff&color=5E17EB&text_size=16)](https://www.instagram.com/oxiivanoficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=fff&color=0a6dff&text_size=16&style=for-the-badge)](https://www.linkedin.com/in/ivanildoborges/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff&color=0a6dff&text_size=16)](https://www.instagram.com/oxiivanoficial)
 <br><br>
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=fff&title_color=5E17EB&border_color=5E17EB&icon_color=5E17EB)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=fff&title_color=0a6dff&border_color=0a6dff&icon_color=#0a6dff)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&title_color=5E17EB&border_color=5E17EB&icon_color=5E17EB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&title_color=0a6dff&border_color=0a6dff&icon_color=0a6dff)
 
 ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
