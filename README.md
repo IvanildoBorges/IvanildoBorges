@@ -3,13 +3,10 @@
 
 <br>**Sobre mim**
 
-_💻 Bacharelado em Sistemas de Informação pelo IFCE_
-
-_📱 Designer de UX pelo Google_
-_📱 Designer de UX e UI pela Mentorama_
-
-_📌 Especialidades: UX/UI Design e DESENVOLVIMENTO WEB_
-
+_💻 Bacharelado em Sistemas de Informação pelo IFCE_ <br>
+_📱 UX Designer pelo Google_ <br>
+_📱 UX/UI Designer pela Mentorama_ <br>
+_📌 Especialidades: UX, UI e DESENVOLVIMENTO WEB_ <br>
 _🥇 Certificado pela Amazon com [AWS Cloud Practitioner](https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile)_
 
 <br><picture>
