@@ -42,10 +42,12 @@ _Certificado pelo Google: [UX Design](https://www.credly.com/badges/6e2dd7d0-0f5
 <br><br>
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&theme=react&show_icons=true&bg_color=fff&title_color=fff&border_color=fff&icon_color=fff)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=0a6dff&title_color=fff&border_color=fff&icon_color=fff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&title_color=0a6dff&border_color=0a6dff&icon_color=0a6dff)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
