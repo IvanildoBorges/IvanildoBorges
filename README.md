@@ -42,13 +42,9 @@ _Certificado pelo Google: [UX Design](https://www.credly.com/badges/6e2dd7d0-0f5
 <br><br>
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=fff&title_color=0a6dff&border_color=0a6dff&icon_color=#0a6dff);
+![GitHub Streak](https://streak-stats.demolab.com?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR)
 
-![GitHub metrics](https://metrics.lecoq.io/IvanildoBorges)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)
-[![GitHub Streak](https://streak-stats.demolab.com?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=0a6dff&title_color=fff&border_color=fff&icon_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&title_color=0a6dff&border_color=0a6dff&icon_color=0a6dff)
 
