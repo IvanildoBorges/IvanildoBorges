@@ -42,7 +42,7 @@ _Certificado pelo Google: [UX Design](https://www.credly.com/badges/6e2dd7d0-0f5
 <br><br>
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=20232a&title_color=61dafb&border_color=61dafb&icon_color=61dafb&color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=20232a&title_color=61dafb&border_color=61dafb&icon_color=61dafb&label_color=fff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR)
 
