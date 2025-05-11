@@ -39,10 +39,12 @@
       <p><strong>UX Design Google</strong></p>
     </a>
   </span>
-  <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
-    <img src="aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
-    <p><strong>AWS Cloud Practitioner</strong></p>
-  </a>
+  <span>
+    <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
+      <img src="aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
+      <p><strong>AWS Cloud Practitioner</strong></p>
+    </a>
+  </span>
 </div>
 
 <br><br>
