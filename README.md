@@ -29,6 +29,12 @@
 <picture>
   <img alt="Swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" heigth="32">
 </picture>
+<picture>
+  <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32" heigth="32">
+</picture>
+<picture>
+  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32" heigth="32">
+</picture>
 <br><br>
 
 ## 🥇 Certificações
@@ -38,13 +44,13 @@
       <td align="center">
         <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog">
           <img src="ux-certificate.png" width="150" alt="UX Design Google"><br>
-          <sub><strong>UX DESIGN GOOGLE</strong></sub>
+          <strong>UX DESIGN GOOGLE</strong>
         </a>
       </td>
       <td align="center">
         <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
           <img src="aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
-          <sub><strong>AWS CLOUD PRACTITIONER</strong></sub>
+         <strong>AWS CLOUD PRACTITIONER</strong>
         </a>
       </td>
     </tr>
