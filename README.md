@@ -32,7 +32,7 @@
 <br><br>
 
 ## 🥇 Certificações
-<div style="display: flex; width: "100%"; background-color: red; gap: 40px; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; width: "100%"; backgroundColor: red; gap: 40px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog" target="_blank" style="text-align: center; text-decoration: none;">
     <picture>
       <img alt="UX Design" src="./ux-certificate.png" width="150" height="150">
