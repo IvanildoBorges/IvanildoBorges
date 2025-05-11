@@ -42,7 +42,7 @@
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" title="Java">
 </picture>
 <picture>
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" title="Tailwind CSS">
+  <img alt="Tailwind CSS" src="https://simpleicons.org/icons/tailwindcss.svg" width="32" height="32" title="Tailwind CSS">
 </picture>
 <picture>
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32" height="32" title="Bootstrap">
@@ -66,7 +66,7 @@
   <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" title="GitHub">
 </picture>
 <picture>
-  <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" height="32" title="Amazon Web Services">
+  <img alt="AWS" src="https://simpleicons.org/icons/amazonaws.svg" width="32" height="32" title="Amazon Web Services">
 </picture>
 <br><br>
 
