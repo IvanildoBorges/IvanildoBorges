@@ -32,20 +32,25 @@
 <br><br>
 
 ## 🥇 Certificações
-<div align="center">
-  <span>
-    <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog">
-      <img src="ux-certificate.png" width="150" alt="UX Design Google"><br>
-      <p><strong>UX Design Google</strong></p>
-    </a>
-  </span>
-  <span>
-    <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
-      <img src="aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
-      <p><strong>AWS Cloud Practitioner</strong></p>
-    </a>
-  </span>
-</div>
+<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog">
+        <img src="ux-certificate.png" width="150" alt="UX Design Google"><br>
+        <sub><strong>UX Design Google</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
+        <img src="aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
+        <sub><strong>AWS Cloud Practitioner</strong></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
+
 
 <br><br>
 
