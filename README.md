@@ -66,7 +66,7 @@
   <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" title="GitHub">
 </picture>
 <picture>
-  <img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="32" height="32" title="Amazon Web Services">
+  <img alt="AWS" src="https://www.svgrepo.com/show/448266/aws.svg" width="32" height="32" title="Amazon Web Services">
 </picture>
 <br><br>
 
