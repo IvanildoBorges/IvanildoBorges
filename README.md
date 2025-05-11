@@ -6,34 +6,34 @@
 
 ## 💻 Tecnologias
 <picture>
-  <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" heigth="32">
+  <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" heigth="32" title="Figma">
 </picture>
 <picture>
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" heigth="32">
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" heigth="32" title="HTML">
 </picture>
 <picture>
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" heigth="32">
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" heigth="32" title="CSS">
 </picture>
 <picture>
-  <img alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32" heigth="32">
+  <img alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32" heigth="32" title="JavaScript">
 </picture>
 <picture>
-  <img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="32" heigth="32">
+  <img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="32" heigth="32" title="TypeScript">
 </picture>
 <picture>
-  <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="32" heigth="32">
+  <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="32" heigth="32" title="React">
 </picture>
 <picture>
-  <img alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="32" heigth="32">
+  <img alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="32" heigth="32" title="NodeJS">
 </picture>
 <picture>
-  <img alt="Swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" heigth="32">
+  <img alt="Swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" heigth="32" title="Swift">
 </picture>
 <picture>
-  <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32" heigth="32">
+  <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32" heigth="32" title="Dart">
 </picture>
 <picture>
-  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32" heigth="32">
+  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32" heigth="32" title="Flutter">
 </picture>
 <br><br>
 
@@ -42,15 +42,15 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog">
+        <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog" title="Clique para ver a certificação">
           <img src="ux-certificate.png" width="150" alt="UX Design Google"><br>
-          <strong>UX DESIGN GOOGLE</strong>
+          <strong>UX Design Google</strong>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
+        <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile" title="Clique para ver a certificação">
           <img src="aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
-         <strong>AWS CLOUD PRACTITIONER</strong>
+         <strong>AWS Cloud Practitioner</strong>
         </a>
       </td>
     </tr>
