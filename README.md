@@ -32,12 +32,8 @@
 <br><br>
 
 ## 🥇 Certificações
-[UX Design Google <figure><img src="./ux-certificate.png" width="200" height="200" alt="UX Design"></figure>](https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog)
-<a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile" target="_blank" title="Clique e veja a certificação">
-  <figure>
-    <img src="./aws-practitioner-certificate.png" width="200" height="200" alt="Cloud Practitioner">
-  </figure>
-</a>
+[UX Design Google <figure><img src="./ux-certificate.png" width="180" height="180" alt="UX Design"></figure>](https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog)
+[<figure><img src="./aws-practitioner-certificate.png" width="200" height="200" alt="Cloud Practitioner"></figure> AWS Cloud Practitioner](https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile)
 <br><br>
 
 ## 🤳 Contato/Networking
