@@ -39,7 +39,6 @@
     <img src="./ux-certificate.png" width="150" alt="UX Design Google"><br>
     <strong>UX Design Google</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
     <img src="./aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
     <strong>AWS Cloud Practitioner</strong>
