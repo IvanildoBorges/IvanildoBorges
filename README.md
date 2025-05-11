@@ -32,9 +32,25 @@
 <br><br>
 
 ## 🥇 Certificações
-_Certificado pela Amazon: [AWS Cloud Practitioner](https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile)_ <br>
-_Certificado pelo Google: [UX Design](https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog)_ <br>
-<br>
+<div align="center">
+  <div style="display: inline-block; margin: 20px; text-align: center;">
+    <picture>
+      <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" height="32">
+    </picture>
+    <div>
+      <em>Certificado pelo Google: <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog" target="_blank">UX Design</a></em>
+    </div>
+  </div>
+
+  <div style="display: inline-block; margin: 20px; text-align: center;">
+    <picture>
+      <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32">
+    </picture>
+    <div>
+      <em>Certificado pela Amazon: <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile" target="_blank">AWS Cloud Practitioner</a></em>
+    </div>
+  </div>
+</div>
 
 ## 🤳 Contato/Networking
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=fff&color=0a6dff&text_size=16&style=for-the-badge)](https://www.linkedin.com/in/ivanildoborges/)
