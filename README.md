@@ -33,17 +33,24 @@
 
 ## 🥇 Certificações
 <p align="center">
-  <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog" target="_blank">
-    <img src="./ux-certificate.png" width="150" alt="UX Design Google"><br>
-    <strong>UX Design Google</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile" target="_blank">
-    <img src="./aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
-    <strong>AWS Cloud Practitioner</strong>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog">
+          <img src="ux-certificate.png" width="150" alt="UX Design Google"><br>
+          <sub><strong>UX Design Google</strong></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile">
+          <img src="aws-practitioner-certificate.png" width="150" alt="AWS Cloud Practitioner"><br>
+          <sub><strong>AWS Cloud Practitioner</strong></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
-<br><br>
+<br>
 
 ## 🤳 Contato/Networking
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=fff&color=0a6dff&text_size=16&style=for-the-badge)](https://www.linkedin.com/in/ivanildoborges/)
