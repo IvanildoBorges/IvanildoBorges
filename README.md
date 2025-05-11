@@ -6,34 +6,67 @@
 
 ## 💻 Tecnologias
 <picture>
-  <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" heigth="32" title="Figma">
+  <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" height="32" title="Figma">
 </picture>
 <picture>
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" heigth="32" title="HTML">
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32" title="HTML">
 </picture>
 <picture>
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" heigth="32" title="CSS">
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32" title="CSS">
 </picture>
 <picture>
-  <img alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32" heigth="32" title="JavaScript">
+  <img alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32" height="32" title="JavaScript">
 </picture>
 <picture>
-  <img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="32" heigth="32" title="TypeScript">
+  <img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="32" height="32" title="TypeScript">
 </picture>
 <picture>
-  <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="32" heigth="32" title="React">
+  <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="32" height="32" title="React">
 </picture>
 <picture>
-  <img alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="32" heigth="32" title="NodeJS">
+  <img alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="32" height="32" title="NodeJS">
 </picture>
 <picture>
-  <img alt="Swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" heigth="32" title="Swift">
+  <img alt="Swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" height="32" title="Swift">
 </picture>
 <picture>
-  <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32" heigth="32" title="Dart">
+  <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32" height="32" title="Dart">
 </picture>
 <picture>
-  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32" heigth="32" title="Flutter">
+  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32" height="32" title="Flutter">
+</picture>
+<picture>
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" title="Python">
+</picture>
+<picture>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" title="Java">
+</picture>
+<picture>
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" title="Tailwind CSS">
+</picture>
+<picture>
+  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32" height="32" title="Bootstrap">
+</picture>
+<picture>
+  <img alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" height="32" title="Express.js">
+</picture>
+<picture>
+  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" height="32" title="MySQL">
+</picture>
+<picture>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32" title="PostgreSQL">
+</picture>
+<picture>
+  <img alt="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="32" height="32" title="SQLite">
+</picture>
+<picture>
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" height="32" title="Git">
+</picture>
+<picture>
+  <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" title="GitHub">
+</picture>
+<picture>
+  <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" height="32" title="Amazon Web Services">
 </picture>
 <br><br>
 
