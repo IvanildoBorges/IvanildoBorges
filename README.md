@@ -33,10 +33,10 @@
 
 ## 🥇 Certificações
 <a href="https://www.credly.com/badges/6e2dd7d0-0f51-4f58-80d0-8162ab74756b/linked_in?t=sllyog" target="_blank">
-  <figure style="text-align: center;">
+  <div style="text-align: center;">
     <img src="./ux-certificate.png" width="150" height="150" alt="UX Design">
-    <figcaption><strong>UX Design Google</strong></figcaption>
-  </figure>
+    <p><strong>UX Design Google</strong></p>
+  </div>
 </a>
 <a href="https://www.credly.com/badges/b2b03456-023c-45b4-94ac-2823bbc3b3ae/linked_in_profile" target="_blank">
   <figure style="text-align: center;">
