@@ -2,8 +2,8 @@
 
 # 👨‍💻 Hello World, I'm Ivanildo, but you can call me Ivan 👨‍💻
 **Desenvolvedor & Designer**
-> _Graduação Sistemas de Informação pelo IFCE_ | _Graduação Análise e Desenvolvimento de Sistemas pela UFCA_ 
-> _UX Designer pelo Google_ | _UX/UI Designer pela Mentorama_ | _Web Fullstack Developer pela Geração Tech_ |
+> _Graduação Sistemas de Informação pelo IFCE_ | _Graduação Análise e Desenvolvimento de Sistemas pela UFCA_
+> _UX Designer pelo Google_ | _UX/UI Designer pela Mentorama_ | _Web Fullstack Developer pela Geração Tech_
 <br>
 
 ## 💻 Tecnologias
