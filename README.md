@@ -1,15 +1,18 @@
 <img alt="Banner" width="100%" src="cover.png">
+<br>
 
 # Hello World, I'm Ivanildo, but you can call me Ivan
 **Full Stack Developer | UX/UI Designer**
 
-> _I am a Full Stack Developer and UX/UI Designer with a background in Information Systems and Systems Analysis and Development. I have experience in developing web and mobile applications, working from user experience research and prototyping to full solution implementation. I am currently studying software architecture, cloud computing, and the development of scalable digital products._<br>
+> _I am a Full Stack Developer and UX/UI Designer with a background in Information Systems and Systems Analysis and Development. I have experience in developing web and mobile applications, working from user experience research and prototyping to full solution implementation. I am currently studying software architecture, cloud computing, and the development of scalable digital products._
+<br>
 
 ## Currently
 - Developing Full Stack projects with React, Node.js, and PostgreSQL
 - Studying Python Backend and Software Architecture
 - Creating mobile applications with Kotlin
-- Applying UX/UI Design to create user-centered experiences<br>
+- Applying UX/UI Design to create user-centered experiences
+<br>
 
 ## Technologies
 <picture>
@@ -75,7 +78,7 @@
 <picture>
   <img alt="AWS" src="https://www.svgrepo.com/show/448266/aws.svg" width="32" height="32" title="Amazon Web Services">
 </picture>
-<br>
+<br><br>
 
 ## Badges
 <p align="center">
@@ -95,7 +98,8 @@
       </td>
     </tr>
   </table>
-</p><br>
+</p>
+<br>
 
 ## Networking
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logoColor=fff&color=0a6dff&text_size=16&style=for-the-badge)](https://www.linkedin.com/in/ivanildoborges/)
