@@ -105,7 +105,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=fff&color=0a6dff&text_size=16)](https://ivanildoborges.netlify.app/)
 <br>
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR)
 
 ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
