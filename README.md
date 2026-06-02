@@ -1,14 +1,18 @@
-<img alt="Banner" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQEACBd_FyQJjg/profile-displaybackgroundimage-shrink_350_1400/B56ZUkHacNHEAY-/0/1740067678864?e=1750896000&v=beta&t=sGjzGya7wpRFf4xioWGcSFubG0Whx7_4DU7LD7HqiAI">
+<img alt="Banner" width="100%" src="cover.png">
 
-# 👨‍💻 Hello World, I'm Ivanildo, but you can call me Ivan 👨‍💻
-**Desenvolvedor & Designer**
+# Hello World, I'm Ivanildo, but you can call me Ivan
+**Full Stack Developer | UX/UI Designer**
 
-> _Sistemas de Informação pelo IFCE_ | _Análise e Desenvolvimento de Sistemas pela UFCA_
-
-> _UX Designer pelo Google_ | _UX/UI Designer pela Mentorama_ | _Web Fullstack Developer pela Geração Tech_
+> _I am a Full Stack Developer and UX/UI Designer with a background in Information Systems and Systems Analysis and Development. I have experience in developing web and mobile applications, working from user experience research and prototyping to full solution implementation. I am currently studying software architecture, cloud computing, and the development of scalable digital products._
 <br>
 
-## 💻 Tecnologias
+## Currently
+- Developing Full Stack projects with React, Node.js, and PostgreSQL
+- Studying Python Backend and Software Architecture
+- Creating mobile applications with Kotlin
+- Applying UX/UI Design to create user-centered experiences
+
+## Technologies
 <picture>
   <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" height="32" title="Figma">
 </picture>
@@ -74,7 +78,7 @@
 </picture>
 <br><br>
 
-## 🥇 Certificações
+## Badges
 <p align="center">
   <table>
     <tr>
@@ -95,16 +99,12 @@
 </p>
 <br>
 
-## 🤳 Contato/Networking
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=fff&color=0a6dff&text_size=16&style=for-the-badge)](https://www.linkedin.com/in/ivanildoborges/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff&color=0a6dff&text_size=16)](https://www.instagram.com/oxiivanoficial)
+## Networking
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logoColor=fff&color=0a6dff&text_size=16&style=for-the-badge)](https://www.linkedin.com/in/ivanildoborges/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=fff&color=0a6dff&text_size=16)](https://ivanildoborges.netlify.app/)
 <br><br>
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&bg_color=20232a&title_color=61dafb&border_color=61dafb&icon_color=f8d847&text_color=fff&locale=pt-BR)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&theme=react&locale=pt-BR)
 
 ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges)
