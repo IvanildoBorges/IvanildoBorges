@@ -1,4 +1,7 @@
-<img alt="Banner" width="100%" src="cover.png">
+<div align="left">
+  <a href="https://github.com/IvanildoBorges">
+  <img alt="Banner" width="100%" src="cover.png">
+</div>
 
 # Hello World, I'm Ivanildo, but you can call me Ivan
 **Full Stack Developer | UX/UI Designer**
