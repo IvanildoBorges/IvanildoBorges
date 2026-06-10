@@ -110,8 +110,8 @@
   <a href="https://github.com/IvanildoBorges">
   <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR) -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBorges&theme=react&hide_border=true&locale=pt_BR"/> 
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&layout=compact&langs_count=9&theme=react"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanildoBorges&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBorges&layout=compact&langs_count=9&theme=react"/> 
   <!-- ![Profile views](https://komarev.com/ghpvc/?username=IvanildoBorges) -->
   <img src="https://komarev.com/ghpvc/?username=IvanildoBorges"/> 
 </div>
